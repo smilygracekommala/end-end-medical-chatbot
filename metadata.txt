@@ -27,4 +27,4 @@
    - LLM Provider: OpenAI (GPT-4o)
    - Embedding Model: HuggingFace (sentence-transformers/all-MiniLM-L6-v2)
    - Infrastructure: Docker, AWS (EC2, ECR)
-   - CI/CD: GitHub Actions
+   - CI/CD: GitHub Actions..
